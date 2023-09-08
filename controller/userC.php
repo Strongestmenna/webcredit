@@ -24,7 +24,7 @@ class userC
             echo 'Erreur: ' . $e->getMessage();
         }
     }
-
+//metier
 
     public function read()
     {
